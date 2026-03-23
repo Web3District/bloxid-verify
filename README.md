@@ -1,2 +1,6 @@
-# bloxid-verify
-BloxID Quantum Identity Verification API
+
+
+## API Endpoints
+
+- `GET /` - Home page
+- `POST /api/verify` - Verify quantum ID
